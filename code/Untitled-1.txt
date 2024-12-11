@@ -1,0 +1,24 @@
+Test loading failed: Error: Invalid test discovery output!
+
+Error: Invalid test discovery output!
+
+    at parseTestSuites (c:\Users\Jack\.vscode\extensions\littlefoxteam.vscode-python-test-adapter-0.8.2\out\src\pytest\pytestTestCollectionParser.js:14:15)
+    at PytestTestRunner.<anonymous> (c:\Users\Jack\.vscode\extensions\littlefoxteam.vscode-python-test-adapter-0.8.2\out\src\pytest\pytestTestRunner.js:60:76)
+    at Generator.next (<anonymous>)
+    at fulfilled (c:\Users\Jack\.vscode\extensions\littlefoxteam.vscode-python-test-adapter-0.8.2\node_modules\tslib\tslib.js:114:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+
+Stacktrace: 
+    at S.syncTopLevel (c:\Users\Jack\.vscode\extensions\ms-vscode.test-adapter-converter-0.2.1\out\extension.js:6:3)
+    at mh.value (c:\Users\Jack\.vscode\extensions\ms-vscode.test-adapter-converter-0.2.1\out\extension.js:3:4541)
+    at D.B (file:///c:/Users/Jack/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.fire (file:///c:/Users/Jack/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at mh.value (c:\Users\Jack\.vscode\extensions\hbenl.vscode-test-explorer-2.22.1\out\hub\testHub.js:53:43)
+    at D.B (file:///c:/Users/Jack/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///c:/Users/Jack/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///c:/Users/Jack/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at PythonTestAdapter.<anonymous> (c:\Users\Jack\.vscode\extensions\littlefoxteam.vscode-python-test-adapter-0.8.2\out\src\pythonTestAdapter.js:89:35)
+    at Generator.throw (<anonymous>)
+    at rejected (c:\Users\Jack\.vscode\extensions\littlefoxteam.vscode-python-test-adapter-0.8.2\node_modules\tslib\tslib.js:115:69)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
