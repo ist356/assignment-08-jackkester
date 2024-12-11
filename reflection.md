@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jack Kester
+Sudent Email:  jwkester@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+This assignment was actually pretty fun. It was great to use streamlit again and cutomize the UI. I don't remember learning st.metric but it was great to bring to the top of my head while I prepare my project. Using the seaborn barplot is pretty easy. After using a lot of barplots in R, the parameters are pretty universal. I still need some practice with the geopandas explore function. I understand how to make the folium maps and that the geopandas database is for the points on the map but fully learning the parameters that go into .explore() will take some time. I noticed some differences between the start of the function in my file vs the solution but whatever I did matched the example from the ReadMe example.
